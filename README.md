@@ -4,7 +4,7 @@
 💡 I like to explore new technologies and create desktop applications, games and interactive experiences.<br />
 🎓 I'm currently studying Telecommunications and IT at Poznań University of Technology.<br />
 🌱 I'm focused on learning more about Unity3D, C#, game development, networking and 3D modeling in Blender.<br />
-✍️ In my free time, I work on game prototypes, desktop tools, 3D modeling projects and play games.<br />
+✍️ In my free time, I work on game prototypes, desktop tools, 3D modeling projects and play video games.<br />
 💬 Feel free to reach out to me to discuss game development, programming or creative projects.<br />
 💻 My programming skillset includes C#, JavaScript, PHP, Java, C++, HTML and SQL (MySQL/MariaDB).
 <br /><br />
