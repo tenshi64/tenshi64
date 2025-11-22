@@ -13,4 +13,4 @@
 🌐 Or contact me on **Discord**: tenshi128bit<br />
 🎥 You can also reach out via **YouTube**: @tenshi64, where I share videos showcasing some of my projects.
 
-[![My Skills](https://skillicons.dev/icons?i=js,cs,cpp,php,java,mysql,html,css,unity,blender,androidstudio,dotnet,electron&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,cs,cpp,php,java,mysql,html,css,unity,blender,androidstudio,electron,dotnet&perline=20)](https://skillicons.dev)
