@@ -3,7 +3,7 @@
 **About me**<br />
 💡 I like to explore new technologies, create desktop applications and games.<br />
 🎓 I'm currently studying Telecommunications and IT.<br />
-🌱 I'm focused on learning more about Unity3D, C#, game development, networking and 3D modeling in Blender.<br />
+🌱 I'm focused on learning more about Unity3D, networking and 3D modeling in Blender.<br />
 ✍️ In my free time, I work on game prototypes, desktop tools, 3D modeling projects and play video games.<br />
 💬 Feel free to reach out to me to discuss game development, programming or creative projects.<br />
 💻 My programming skillset includes C#, JavaScript, PHP, Java, C++, HTML and SQL (MySQL/MariaDB).
