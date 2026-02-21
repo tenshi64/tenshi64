@@ -11,6 +11,6 @@
 **Contact**<br />
 ✉️ You can email me at mnarozny2@gmail.com<br />
 🌐 Or contact me on **Discord**: tenshi128bit<br />
-🎥 You can also reach out via **YouTube**: @tenshi64, where I share videos showcasing some of my projects.
+🎥 You can also reach out via [**YouTube**](https://www.youtube.com/@tenshi64), where I share videos showcasing some of my projects.
 
 [![My Skills](https://skillicons.dev/icons?i=js,cs,cpp,php,java,mysql,html,css,unity,blender,androidstudio,electron,dotnet&perline=20)](https://skillicons.dev)
