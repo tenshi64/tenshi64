@@ -2,7 +2,7 @@
 
 **About me**<br />
 💡 I like to explore new technologies, create desktop applications and games.<br />
-🎓 I'm currently studying Telecommunications and IT.<br />
+🎓 I am currently pursuing a degree in ICT (Information and Communication Technology).<br />
 🌱 I'm focused on learning more about Unity3D, Unreal Engine, networking and 3D modeling in Blender.<br />
 ✍️ In my free time, I work on game prototypes, desktop tools, 3D modeling projects and play video games.<br />
 💬 Feel free to reach out to me to discuss game development, programming or creative projects.<br />
